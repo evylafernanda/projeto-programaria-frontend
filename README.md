@@ -12,6 +12,8 @@ O site apresenta de forma educativa e acessível a trajetória de Ada Lovelace, 
 - Formulário para coleta de nome, e-mail e telefone
 - Validação simples de formulário com JavaScript
 
+  ## ✨ Imagem  do projeto
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
